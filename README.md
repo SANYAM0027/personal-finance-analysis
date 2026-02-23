@@ -47,4 +47,45 @@ The objective of this analysis is to transform raw transaction data into meaning
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## ▶ How to Run This Project
+
+1. Clone the repository:
+
+2. Navigate to the project folder
+
+3. Install required libraries
+
+4. Run the Python file
+
+
+---
+
+## 📈 Key Insights
+- Identified high-expense months impacting savings
+- Determined major spending categories
+- Calculated overall savings rate
+- Evaluated financial health through trend analysis
+
+---
+
+## 🎯 Project Objective
+This project demonstrates practical data analysis skills including:
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Financial Insight Generation
+
+---
+
+## 👨‍💻 Author
+**Sanyam Chanana**  
+Aspiring Data Analyst  
+GitHub: https://github.com/SANYAM0027
+
+---
+
+⭐ If you found this project useful, feel free to star the repository.
