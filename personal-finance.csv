@@ -1,0 +1,204 @@
+Transaction_Date,Category,Payment_Mode,Amount,Transaction_Type
+2025-01-01,Shopping,UPI,1218,Expense
+2025-01-02,Entertainment,UPI,4735,Expense
+2025-01-02,Fuel,Bank Transfer,654,Expense
+2025-01-03,Food,Bank Transfer,1883,Expense
+2025-01-03,Rent,Cash,8958,Expense
+2025-01-03,Food,UPI,3924,Expense
+2025-01-04,Fuel,UPI,3258,Expense
+2025-01-05,Food,UPI,4369,Expense
+2025-01-05,Shopping,Card,1292,Expense
+2025-01-05,Groceries,Cash,2070,Expense
+2025-01-06,Entertainment,Bank Transfer,3231,Expense
+2025-01-06,Entertainment,UPI,3784,Expense
+2025-01-07,Rent,UPI,8224,Expense
+2025-01-08,Rent,Cash,13003,Expense
+2025-01-09,Entertainment,Bank Transfer,4944,Expense
+2025-01-09,Groceries,Bank Transfer,4518,Expense
+2025-01-10,Freelance,Bank Transfer,30522,Income
+2025-01-10,Fuel,UPI,1530,Expense
+2025-01-10,Shopping,Bank Transfer,4793,Expense
+2025-01-10,Entertainment,UPI,3377,Expense
+2025-01-11,Shopping,Cash,3092,Expense
+2025-01-11,Groceries,Card,3145,Expense
+2025-01-11,Food,Card,3474,Expense
+2025-01-12,Shopping,Bank Transfer,3945,Expense
+2025-01-12,Rent,UPI,9928,Expense
+2025-01-12,Entertainment,Bank Transfer,3265,Expense
+2025-01-13,Shopping,UPI,3370,Expense
+2025-01-13,Entertainment,Bank Transfer,3138,Expense
+2025-01-14,Groceries,Card,4499,Expense
+2025-01-14,Shopping,Card,4392,Expense
+2025-01-14,Entertainment,UPI,1228,Expense
+2025-01-15,Fuel,Bank Transfer,2237,Expense
+2025-01-15,Shopping,Card,3370,Expense
+2025-01-15,Shopping,Bank Transfer,2626,Expense
+2025-01-16,Shopping,UPI,2721,Expense
+2025-01-16,Food,Cash,2088,Expense
+2025-01-17,Freelance,Bank Transfer,29171,Income
+2025-01-17,Entertainment,Cash,2855,Expense
+2025-01-17,Entertainment,Cash,1697,Expense
+2025-01-17,Food,UPI,2741,Expense
+2025-01-18,Entertainment,Cash,708,Expense
+2025-01-18,Shopping,Cash,4845,Expense
+2025-01-19,Fuel,Bank Transfer,1386,Expense
+2025-01-19,Fuel,Bank Transfer,3733,Expense
+2025-01-20,Groceries,Cash,196,Expense
+2025-01-20,Fuel,Bank Transfer,1994,Expense
+2025-01-20,Shopping,UPI,3024,Expense
+2025-01-21,Food,Bank Transfer,2874,Expense
+2025-01-22,Salary,Bank Transfer,38903,Income
+2025-01-22,Rent,UPI,12857,Expense
+2025-01-22,Groceries,Bank Transfer,2190,Expense
+2025-01-23,Shopping,Card,3795,Expense
+2025-01-23,Fuel,UPI,4601,Expense
+2025-01-23,Fuel,Cash,2339,Expense
+2025-01-24,Food,Bank Transfer,4276,Expense
+2025-01-25,Fuel,UPI,275,Expense
+2025-01-25,Fuel,Card,4006,Expense
+2025-01-25,Groceries,UPI,2103,Expense
+2025-01-26,Entertainment,Card,1056,Expense
+2025-01-26,Fuel,UPI,3351,Expense
+2025-01-26,Entertainment,Bank Transfer,3524,Expense
+2025-01-27,Fuel,UPI,3842,Expense
+2025-01-27,Rent,Bank Transfer,8665,Expense
+2025-01-27,Groceries,UPI,3092,Expense
+2025-01-28,Fuel,Bank Transfer,2104,Expense
+2025-01-28,Fuel,Bank Transfer,3318,Expense
+2025-01-29,Shopping,Card,1207,Expense
+2025-01-29,Entertainment,Cash,2181,Expense
+2025-01-29,Fuel,Cash,4254,Expense
+2025-01-30,Food,UPI,5000,Expense
+2025-01-30,Shopping,Cash,2094,Expense
+2025-01-30,Rent,UPI,13245,Expense
+2025-01-31,Food,Bank Transfer,2544,Expense
+2025-02-01,Food,UPI,163,Expense
+2025-02-01,Groceries,Bank Transfer,4067,Expense
+2025-02-01,Food,Bank Transfer,2968,Expense
+2025-02-02,Shopping,Cash,961,Expense
+2025-02-03,Rent,Bank Transfer,9830,Expense
+2025-02-03,Groceries,Cash,2710,Expense
+2025-02-04,Rent,Cash,8238,Expense
+2025-02-04,Rent,Bank Transfer,9126,Expense
+2025-02-05,Fuel,Cash,3892,Expense
+2025-02-05,Rent,Card,11935,Expense
+2025-02-05,Rent,Bank Transfer,14435,Expense
+2025-02-06,Rent,Cash,13494,Expense
+2025-02-07,Rent,Bank Transfer,9684,Expense
+2025-02-08,Shopping,UPI,3444,Expense
+2025-02-08,Entertainment,UPI,3197,Expense
+2025-02-08,Rent,Cash,10026,Expense
+2025-02-09,Entertainment,Cash,382,Expense
+2025-02-09,Groceries,Card,2743,Expense
+2025-02-10,Fuel,Card,2134,Expense
+2025-02-10,Food,Bank Transfer,3394,Expense
+2025-02-10,Groceries,Card,1606,Expense
+2025-02-11,Rent,Cash,9424,Expense
+2025-02-11,Entertainment,Cash,2289,Expense
+2025-02-12,Food,Cash,2063,Expense
+2025-02-12,Shopping,UPI,4229,Expense
+2025-02-12,Food,Card,4827,Expense
+2025-02-13,Freelance,Bank Transfer,20975,Income
+2025-02-13,Groceries,Card,188,Expense
+2025-02-14,Shopping,Bank Transfer,2642,Expense
+2025-02-14,Fuel,Cash,3984,Expense
+2025-02-15,Entertainment,UPI,489,Expense
+2025-02-16,Shopping,Bank Transfer,950,Expense
+2025-02-16,Groceries,Card,3260,Expense
+2025-02-16,Entertainment,UPI,2689,Expense
+2025-02-17,Fuel,Cash,4076,Expense
+2025-02-18,Shopping,Bank Transfer,1240,Expense
+2025-02-19,Fuel,Card,1666,Expense
+2025-02-19,Rent,Cash,12743,Expense
+2025-02-20,Entertainment,Cash,2237,Expense
+2025-02-20,Rent,Bank Transfer,10225,Expense
+2025-02-20,Fuel,UPI,1400,Expense
+2025-02-21,Food,UPI,1150,Expense
+2025-02-21,Food,Cash,741,Expense
+2025-02-21,Groceries,Bank Transfer,3628,Expense
+2025-02-22,Shopping,UPI,4254,Expense
+2025-02-22,Shopping,Cash,4605,Expense
+2025-02-22,Rent,Cash,10058,Expense
+2025-02-23,Groceries,Card,4997,Expense
+2025-02-24,Fuel,UPI,4344,Expense
+2025-02-24,Food,Bank Transfer,1010,Expense
+2025-02-25,Food,UPI,3587,Expense
+2025-02-25,Shopping,Bank Transfer,454,Expense
+2025-02-25,Groceries,Cash,1853,Expense
+2025-02-26,Rent,Bank Transfer,11344,Expense
+2025-02-27,Entertainment,Cash,3150,Expense
+2025-02-27,Rent,Card,8349,Expense
+2025-02-27,Food,Card,1188,Expense
+2025-02-28,Rent,UPI,9276,Expense
+2025-03-01,Shopping,Bank Transfer,2714,Expense
+2025-03-01,Food,Card,2179,Expense
+2025-03-02,Food,UPI,3573,Expense
+2025-03-02,Shopping,Cash,935,Expense
+2025-03-02,Shopping,Bank Transfer,4679,Expense
+2025-03-03,Rent,Cash,12712,Expense
+2025-03-03,Groceries,Bank Transfer,3238,Expense
+2025-03-04,Entertainment,Bank Transfer,1133,Expense
+2025-03-04,Shopping,Bank Transfer,2572,Expense
+2025-03-05,Shopping,Bank Transfer,4504,Expense
+2025-03-05,Rent,UPI,9005,Expense
+2025-03-05,Entertainment,UPI,3409,Expense
+2025-03-06,Rent,Bank Transfer,13571,Expense
+2025-03-06,Rent,UPI,12918,Expense
+2025-03-06,Rent,Bank Transfer,10878,Expense
+2025-03-07,Entertainment,Card,392,Expense
+2025-03-07,Rent,Cash,10707,Expense
+2025-03-07,Groceries,Card,2384,Expense
+2025-03-08,Entertainment,Cash,4463,Expense
+2025-03-08,Food,Bank Transfer,4542,Expense
+2025-03-08,Entertainment,UPI,4030,Expense
+2025-03-09,Food,UPI,1395,Expense
+2025-03-09,Rent,Card,14161,Expense
+2025-03-10,Groceries,Cash,204,Expense
+2025-03-10,Shopping,Bank Transfer,1830,Expense
+2025-03-10,Entertainment,UPI,4884,Expense
+2025-03-11,Groceries,Bank Transfer,768,Expense
+2025-03-11,Shopping,UPI,4100,Expense
+2025-03-12,Shopping,Bank Transfer,3338,Expense
+2025-03-12,Shopping,Card,3663,Expense
+2025-03-12,Groceries,UPI,1357,Expense
+2025-03-13,Rent,Card,10174,Expense
+2025-03-13,Food,Cash,190,Expense
+2025-03-14,Salary,Bank Transfer,50548,Income
+2025-03-14,Food,UPI,1223,Expense
+2025-03-14,Fuel,Card,2126,Expense
+2025-03-14,Entertainment,Bank Transfer,188,Expense
+2025-03-15,Fuel,Cash,3996,Expense
+2025-03-15,Groceries,Bank Transfer,1989,Expense
+2025-03-16,Entertainment,Bank Transfer,4948,Expense
+2025-03-16,Shopping,Card,4723,Expense
+2025-03-17,Groceries,UPI,4229,Expense
+2025-03-18,Rent,UPI,9724,Expense
+2025-03-18,Shopping,UPI,3479,Expense
+2025-03-19,Rent,UPI,14939,Expense
+2025-03-19,Food,Cash,1201,Expense
+2025-03-19,Entertainment,Card,2802,Expense
+2025-03-20,Groceries,Card,4409,Expense
+2025-03-20,Shopping,Bank Transfer,3410,Expense
+2025-03-21,Shopping,UPI,995,Expense
+2025-03-21,Food,Card,1683,Expense
+2025-03-21,Shopping,Card,543,Expense
+2025-03-22,Entertainment,Bank Transfer,1729,Expense
+2025-03-23,Rent,Card,13347,Expense
+2025-03-23,Shopping,Bank Transfer,4398,Expense
+2025-03-24,Rent,Card,14228,Expense
+2025-03-24,Shopping,UPI,2937,Expense
+2025-03-25,Shopping,Card,2342,Expense
+2025-03-26,Fuel,Bank Transfer,3752,Expense
+2025-03-26,Fuel,Cash,187,Expense
+2025-03-26,Fuel,Bank Transfer,2823,Expense
+2025-03-27,Groceries,Cash,2656,Expense
+2025-03-27,Entertainment,Card,2654,Expense
+2025-03-28,Shopping,Cash,3766,Expense
+2025-03-28,Food,Bank Transfer,4291,Expense
+2025-03-29,Fuel,Bank Transfer,3057,Expense
+2025-03-29,Shopping,Cash,4748,Expense
+2025-03-30,Groceries,Cash,4501,Expense
+2025-03-30,Shopping,Bank Transfer,3852,Expense
+2025-03-31,Food,Bank Transfer,3670,Expense
+2025-03-31,Entertainment,Bank Transfer,3885,Expense
+2025-03-31,Rent,Cash,12599,Expense
